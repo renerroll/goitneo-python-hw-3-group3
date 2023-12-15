@@ -1,0 +1,24 @@
+{
+    "Artem": {
+        "name": {
+            "value": "Artem"
+        },
+        "phones": [
+            {
+                "value": "0993375297"
+            }
+        ],
+        "birthday": null
+    },
+    "Valera": {
+        "name": {
+            "value": "Valera"
+        },
+        "phones": [
+            {
+                "value": "0993385398"
+            }
+        ],
+        "birthday": null
+    }
+}
