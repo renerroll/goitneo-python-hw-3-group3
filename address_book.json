@@ -5,10 +5,12 @@
         },
         "phones": [
             {
-                "value": "0993375297"
+                "value": "0993385390"
             }
         ],
-        "birthday": null
+        "birthday": {
+            "value": "19.02.1933"
+        }
     },
     "Valera": {
         "name": {
@@ -20,5 +22,18 @@
             }
         ],
         "birthday": null
+    },
+    "Igor": {
+        "name": {
+            "value": "Igor"
+        },
+        "phones": [
+            {
+                "value": "0983329090"
+            }
+        ],
+        "birthday": {
+            "value": "20.03.1917"
+        }
     }
 }
