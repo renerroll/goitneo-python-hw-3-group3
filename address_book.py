@@ -106,7 +106,7 @@ class AddressBook(UserDict):
                 birthday = birthday.replace(year=now.year)
                 if start <= birthday <= end:
                     weekday = birthday.weekday()
-                    if 0 <= weekday <= 4:  # Consider weekdays only
+                    if 0 <= weekday <= 4:  
                         birthdays_storage.setdefault(days[weekday], []).append(record.name.value)
 
         biggest_day_name = max((len(day) for day in days.values()), default=0)
